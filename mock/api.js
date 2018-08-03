@@ -49,9 +49,9 @@ const desc = [
 ];
 
 const user = [
-  '付小小',
-  '曲丽丽',
-  '林东东',
+  'John Doe',
+  'Mike Middletone',
+  'Kate Smith',
   '周星星',
   '吴加好',
   '朱偏右',
